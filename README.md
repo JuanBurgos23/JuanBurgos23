@@ -17,11 +17,6 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 🎓 **Soy Juan Burgos**, estudiante de **Ingeniería en Sistemas** en la **Universidad UAGRM FINOR**.  
 
-🚀 He participado en proyectos de desarrollo de software como:  
-- 🏠 **Sistemas de alquiler para cuartos**  
-- 🚔 **Registro de denuncias para la FELCC**  
-- 💊 **Sistemas de compra y venta en farmacias y ferreterías**  
-- 🏋️ **Gestión de gimnasios**  
 
 <br>
 
